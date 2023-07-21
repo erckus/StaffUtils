@@ -1,0 +1,11 @@
+name: StaffUtils
+version: '1.0-SNAPSHOT'
+main: dev.poetty.staffutils.StaffUtils
+
+commands:
+  tiempo:
+    description: Muestra el tiempo total de juego de un usuario.
+    aliases: [t]
+  reset:
+    description: Resetea la informacion de un jugador.
+    aliases: [ r ]

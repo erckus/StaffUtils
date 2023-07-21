@@ -1,0 +1,21 @@
+##############################################################################################################
+#                                                                                                            #
+#   $$$$$$\ $$$$$$$$\  $$$$$$\  $$$$$$$$\ $$$$$$$$\       $$\   $$\ $$$$$$$$\ $$$$$$\ $$\       $$$$$$\      #
+#  $$  __$$\\__$$  __|$$  __$$\ $$  _____|$$  _____|      $$ |  $$ |\__$$  __|\_$$  _|$$ |     $$  __$$\     #
+#  $$ /  \__|  $$ |   $$ /  $$ |$$ |      $$ |            $$ |  $$ |   $$ |     $$ |  $$ |     $$ /  \__|    #
+#  \$$$$$$\    $$ |   $$$$$$$$ |$$$$$\    $$$$$\          $$ |  $$ |   $$ |     $$ |  $$ |     \$$$$$$\      #
+#   \____$$\   $$ |   $$  __$$ |$$  __|   $$  __|         $$ |  $$ |   $$ |     $$ |  $$ |      \____$$\     #
+#  $$\   $$ |  $$ |   $$ |  $$ |$$ |      $$ |            $$ |  $$ |   $$ |     $$ |  $$ |     $$\   $$ |    #
+#  \$$$$$$  |  $$ |   $$ |  $$ |$$ |      $$ |            \$$$$$$  |   $$ |   $$$$$$\ $$$$$$$$\\$$$$$$  |    #
+#  \______/   \__|   \__|  \__|\__|      \__|             \______/    \__|   \______|\________|\______/      #
+##############################################################################################################
+
+# Plugin creado por Poetty (DC poettyy)
+
+messages:
+  no_permission: "&cNo tienes permisos para ejecutar este comando."
+  player_not_found: "&cNo se encontró al jugador especificado."
+  reset_all_success: "&aSe han reseteado las horas de todos los jugadores."
+  reset_player_success: "&aSe han reseteado las horas del jugador %player%."
+  usage: "&cUso: /tiempo [usuario] | reset [usuario] | resetall"
+  player_time: "&aEl tiempo total jugado de %player% es: %time% horas."
