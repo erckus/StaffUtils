@@ -8,3 +8,8 @@ Sirve para calcular el tiempo de cada usuario que lleva dentro del servidor, la 
 Próximamente se añadira MySQL donde podréis elegir si entre el default o mysql y más actualizaciones básicas.
 
 Este plugin es totalmente gratuito
+
+Variables en config.yml:
+
+ - %player% - Mostrar el nombre del usuario.
+ - %time% - Calcular el tiempo por horas.
